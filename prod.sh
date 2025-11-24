@@ -1,4 +1,4 @@
 
-prod.sh - v1
+prod.sh - v
 
-'this is the first version of prod.sh'
+'this is the second version of prod.sh'
